@@ -1,13 +1,40 @@
-#Hi, I'm Rajarshi Mondal, a Data Analyst & AI/ML Engineer based in Bangladesh.
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=00b300&lines=Hi+There!+%F0%9F%91%8B;+I'm+Rajarshi+Mondal!;+Data+Analyst+%7C+AI%2FML+Engineer" />
+</h1>
 
-📊 Data Analyst | 💻 AI/ML Engineer | 🧑‍💻 Life Long Learner
+<h3 align="center">Data Analyst | AI/ML Engineer | IoT & Embedded Systems Enthusiast</h3>
 
-# 💫 About Me:
-Hi! I'm a Computer Science student passionate about **Data Science, programming, AI/ML, and hardware-based projects**.<br><br>💻 I enjoy building projects that combine **software and hardware**, learning new technologies, and solving real-world problems through code.<br><br>### 🔧 Interests<br><br>* Data Science & Data Analysis<br>* Artificial Intelligence & Machine Learning<br>* IoT & Embedded Systems<br>* Problem Solving<br><br>### 🚀 Currently<br><br>I'm continuously learning, building projects, and improving my skills through hands-on experience.<br><br>> **Learn. Build. Improve. Repeat.** ⚡<br>
+<br/>
 
+### Languages
+| Python | C++ | C# | Java | JavaScript |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajarshi-mondal-/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrajarshi1@gmail.com) 
+| R | HTML5 | Git | GitHub |
+|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" title="R" alt="R" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="55" height="55"/> |
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### Data Science & Machine Learning
+| NumPy | Pandas | Matplotlib | TensorFlow |
+|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="55" height="55"/> |
+
+| Power BI | Anaconda |
+|:---:|:---:|
+| <img src="https://img.icons8.com/color/96/power-bi.png" title="Power BI" alt="Power BI" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="55" height="55"/> |
+
+### Databases
+| MySQL | PostgreSQL | Oracle |
+|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | <img src="https://img.icons8.com/color/96/oracle-logo.png" title="Oracle" alt="Oracle" width="55" height="55"/> |
+
+### Web & Design
+| Apache | Figma | Canva |
+|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" title="Apache" alt="Apache" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/> | <img src="https://img.icons8.com/color/96/canva.png" title="Canva" alt="Canva" width="55" height="55"/> |
+
+### IoT & Embedded Systems
+| IoT | RFID | Embedded Systems | Hardware |
+|:---:|:---:|:---:|:---:|
+| 🔌 | 📡 | ⚙️ | 🔧 |
