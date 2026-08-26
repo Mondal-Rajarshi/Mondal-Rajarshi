@@ -3,7 +3,7 @@
 📊 Data Analyst | 💻 AI/ML Engineer | 🧑‍💻 Life Long Learner
 
 # 💫 About Me:
-Hi! I'm **Rajarshi Mondal**, a Computer Science student passionate about **Data Science, programming, AI/ML, and hardware-based projects**.<br><br>💻 I enjoy building projects that combine **software and hardware**, learning new technologies, and solving real-world problems through code.<br><br>### 🔧 Interests<br><br>* Data Science & Data Analysis<br>* Artificial Intelligence & Machine Learning<br>* IoT & Embedded Systems<br>* Problem Solving<br><br>### 🚀 Currently<br><br>I'm continuously learning, building projects, and improving my skills through hands-on experience.<br><br>> **Learn. Build. Improve. Repeat.** ⚡<br>
+Hi! I'm a Computer Science student passionate about **Data Science, programming, AI/ML, and hardware-based projects**.<br><br>💻 I enjoy building projects that combine **software and hardware**, learning new technologies, and solving real-world problems through code.<br><br>### 🔧 Interests<br><br>* Data Science & Data Analysis<br>* Artificial Intelligence & Machine Learning<br>* IoT & Embedded Systems<br>* Problem Solving<br><br>### 🚀 Currently<br><br>I'm continuously learning, building projects, and improving my skills through hands-on experience.<br><br>> **Learn. Build. Improve. Repeat.** ⚡<br>
 
 
 ## 🌐 Socials:
